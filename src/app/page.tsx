@@ -192,7 +192,7 @@ export default function Home() {
                 {recentContent.map((item) => (
                       <SmartContentCard
                         key={item.id}
-                        item={item}
+                        content={item}
                         onView={() => console.log('View:', item.id)}
                         onBookmark={() => console.log('Bookmark:', item.id)}
                         onShare={() => console.log('Share:', item.id)}
