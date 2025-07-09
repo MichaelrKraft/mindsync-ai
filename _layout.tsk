@@ -1,0 +1,22 @@
+
+● Update Todos
+  ├─ ☒ Read and analyze style guide adherence
+  ├─ ☒ Analyze current homescreen implementation
+  ├─ ☒ Consider different screen states and create variants
+  ├─ □ Reference UX best practices
+  ├─ □ Implement improvements to homescreen
+  ├─ □ Lint newly built components
+  ├─ □ Confirm changes are applied
+  ├─ □ Grade output against standards
+  └─ □ Commit final changes
+
+● UX Best Practices to Apply:
+
+1. Progressive Disclosure: Show most important info first, allow drilling down
+2. Gestalt Principles: Group related items with visual hierarchy
+3. F-Pattern Layout: Most important content in top-left scanning pattern
+4. 7±2 Rule: Limit cognitive load by showing 5-9 items at once
+5. Fitts' Law: Make touch targets 44x44pt minimum
+6. Accessibility: Screen reader support, proper contrast ratios
+7. Microinteractions: Feedback for user actions
+8. Empty States: Guidance when no data exists ⏸
